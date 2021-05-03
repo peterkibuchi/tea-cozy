@@ -96,7 +96,7 @@ main {
     min-height: 90vh;
     width: 100vw;
     max-width: 1200px;
-    background-image: url("./assets/img/img-mission-background.webp");
+    background-image: url("/assets/img/img-mission-background.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -183,7 +183,7 @@ main {
     align-items: center;
     justify-content: center;
     margin-top: 3vh;
-    background-image: url("./assets/img/img-locations-background.webp");
+    background-image: url("/assets/img/img-locations-background.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
