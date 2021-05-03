@@ -15,7 +15,7 @@
 ## General Information
 - This website is based on the following [design spec](./assets/img/img-tea-cozy-redline-design-spec.jpg).
 - I undertook this project as a means of learning the principles of Responsive Web Design.
-- I learnt a lot about using flex box and media queries in particular.
+- I learnt a lot about using flexbox and media queries in particular.
 
 
 ## Technologies Used
