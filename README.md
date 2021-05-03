@@ -28,7 +28,7 @@ Project is: _complete_.
 
 ## Room for Improvement
 - Improve the visual design.
-- I feel like the CSS is too clunky and cluttered. I'd like to  refactor it to be more readable, concise and elegant.
+- I feel the CSS is too clunky and cluttered. I'd like to refactor it to be more readable, concise and elegant.
 
 
 ## Acknowledgements
